@@ -1022,9 +1022,6 @@ exit /b 1 \n\
     if( 0 != system( "test.bat" ) )
     {
         cout << "  Error: Failed calling temp.bat. Ensure you have Visual Studio or the Microsoft compiler installed and that any required dependency libs/headers are available" << endl;
-        //Remove the test header files
-        deleteFile( "test.bat" );
-        deleteFolder( sProjectNameShort );
         return false;
     }
 
