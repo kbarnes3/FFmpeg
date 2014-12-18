@@ -45,16 +45,10 @@
     <ClCompile Include="..\libavdevice\lavfi.c">
       <Filter>Source Files\libavdevice</Filter>
     </ClCompile>
-    <ClCompile Include="..\libavdevice\opengl_enc.c">
-      <Filter>Source Files\libavdevice</Filter>
-    </ClCompile>
     <ClCompile Include="..\libavdevice\sdl.c">
       <Filter>Source Files\libavdevice</Filter>
     </ClCompile>
     <ClCompile Include="..\libavdevice\vfwcap.c">
-      <Filter>Source Files\libavdevice</Filter>
-    </ClCompile>
-    <ClCompile Include="..\libavdevice\libcdio.c">
       <Filter>Source Files\libavdevice</Filter>
     </ClCompile>
     <ClCompile Include="..\libavdevice\file_open.c">

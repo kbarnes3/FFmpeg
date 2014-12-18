@@ -56,9 +56,6 @@
     <ClCompile Include="..\libswresample\swresample_frame.c">
       <Filter>Source Files\libswresample</Filter>
     </ClCompile>
-    <ClCompile Include="..\libswresample\soxr_resample.c">
-      <Filter>Source Files\libswresample</Filter>
-    </ClCompile>
     <ClCompile Include="..\libswresample\log2_tab.c">
       <Filter>Source Files\libswresample</Filter>
     </ClCompile>
